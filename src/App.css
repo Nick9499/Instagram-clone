@@ -6,6 +6,9 @@
 
 .app__header{
     object-fit: contain;
+    position: sticky;
+    top: 0;
+    z-index: 1;
     background-color: #ffffff;
     border-bottom: 1px solid lightgray;
     padding: 20px;
@@ -19,4 +22,7 @@
 }
 .app__headerImage{
     object-fit: contain;
+}
+.app__post{
+    padding: 5%;
 }

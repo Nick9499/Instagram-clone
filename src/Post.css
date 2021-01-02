@@ -23,3 +23,25 @@
 .post__avatar{
     margin-right: 10px;
 }
+.post__commentBox{
+    display: flex;
+    margin-top: 10px;
+}
+.post__input{
+    flex: 1;
+    border: none;
+    padding: 10px;
+    outline: none;
+    border-top: 1px solid lightgray;
+}
+.post__button{
+    flex: 0;
+    border: 0;
+    border-top: 1px solid lightgray;
+    color: #0999F6;
+    padding: 2%;
+    font-weight: bolder;
+}
+.post__comments{
+    padding: 3%;
+}
