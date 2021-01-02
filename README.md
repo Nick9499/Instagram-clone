@@ -3,7 +3,7 @@
 <p>This is a clone of instagram. It has many features of instagram's upload, comment etc. Also it has login and sign up options with firebase support.</p>
 <p>The website is live on https://instagram-clone-9309d.web.app/ </p>
 <h2>Preview</h2><br/>
-<img src='https://github.com/Nick9499/Resort-App/blob/main/src/images/bresort.PNG' /><br/>
+<img src='https://github.com/Nick9499/Instagram-clone/blob/main/public/instagram.PNG' /><br/>
 <h2>Technologies used</h2>
 <br>
 <ul>
