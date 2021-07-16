@@ -4,6 +4,20 @@
 <p>The website is live on https://instagram-clone-9309d.web.app/ </p>
 <h2>Preview</h2><br/>
 <img src='https://github.com/Nick9499/Instagram-clone/blob/main/public/instagram.PNG' /><br/>
+<br/>
+<br/>
+<h2>Features:</h2>
+<hr/>
+<ul>
+  <li>Authentication using Firebase</li>
+  <li>Add comment</li>
+  <li>Image upload</li>
+ 
+  
+  </ul>
+  <br/>
+<br/>
+<br/>
 <h2>Technologies used</h2>
 <br>
 <ul>
